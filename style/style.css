@@ -4,5 +4,12 @@
 
 h1 {
   font-family: 'Fraunces', serif;
-  
+}
+
+.price {
+  font-family: 'Fraunces', serif;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
 }
