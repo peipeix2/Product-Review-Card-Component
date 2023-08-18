@@ -2,6 +2,24 @@
   box-sizing: border-box;
 }
 
+.row {
+  display: flex;
+  flex-direction: column;
+  width: 599px;
+  height: 611px;
+}
+
+.product-img {
+  width: 100%;
+  height: auto;
+}
+
+.col-intro {
+  border: 1px solid red;
+  padding: 2rem;
+  height: 371px;
+}
+
 h1 {
   font-family: 'Fraunces', serif;
 }
