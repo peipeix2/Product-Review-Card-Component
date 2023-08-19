@@ -68,8 +68,11 @@ Following is an example of how I set the border-radius of product-img in media q
 ### Continued development
 
 - Use background-img in CSS to switch img at different screen width
+
 Even though I solved the switch image problem with picture tag and srcset. I figured it would be much simpler if I used background-img.
+
 - Feedback Welcome
+
 I'm still thinking of a better solution for this project. Any advice or feedback is welcomed!
 
 ### Useful resources
